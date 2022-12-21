@@ -1,0 +1,15 @@
+main {
+    width: 600px;
+    height: 350px;
+    border-right:2px solid rgb(223, 211, 211);
+    float: left;
+    background-color: rgb(214, 243, 233);
+}
+aside{
+    width: 30;
+    float: left;
+    background-color: rgb(179, 205, 220);
+}
+span{
+    color: brown;
+}
